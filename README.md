@@ -1,5 +1,8 @@
 # Perception Template for Manufacturing Objects
 
+[![View Deep Learning For Object Detection on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/159618-perception-template-for-manufacturing-objects) 
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks-robotics/perception-for-manufacturing-objects)
+
 This repository contains code to get started with perception for the [ICRA Robot Grasping and Manipulation Challenge (RGMC)](https://www.cse.usf.edu/~yusun/rgmc/2024.html), specifically the manufacturing track. The dataset used is the [NIST dataset](https://www.robot-manipulation.org/nist-moad) and the software used is MATLAB®️ 2023b.
 
 ![image labeler app](labeler-app.png)
